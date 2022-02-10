@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>facets.frag</file>
+        <file>facets.vert</file>
+        <file>lines.frag</file>
+        <file>lines.vert</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icon_down.png</file>
+        <file>icon_up.png</file>
+    </qresource>
+</RCC>
